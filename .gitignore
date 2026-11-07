@@ -1,0 +1,13 @@
+# Default ignore all files
+*
+
+# Allowlist for general files
+!.gitignore
+!README.md
+
+# Allowlist for images
+!img/
+!img/**/*.png
+!img/**/*.jpg
+!img/**/*.gif
+!img/**/*.svg
